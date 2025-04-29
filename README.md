@@ -144,5 +144,3 @@ Go to Keycloak and clear all sessions.
 Go back to the Neo4j browser, login again but this time with `analyst / password` credentials
 
 You should see only the `movies` and `neo4j` databases, you also shouldn't see the `born` property on the `Person` nodes.
-
----
